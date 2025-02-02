@@ -6,7 +6,7 @@ let monto1 = 546 + 1718 + 443;
 let monto2 = 450 + 245 + 652;
 
 //Dias        S
-let monto3 = 0;
+let monto3 = 450;
 
 let montoSemana = monto1 + monto2 + monto3;
 
