@@ -3,7 +3,7 @@
 let monto1 = 546 + 1718 + 443;
 
 //Dias        M     J     V
-let monto2 = 450 + 245 + 652;
+let monto2 = 450 + 245 + 1152;
 
 //Dias        S
 let monto3 = 450;
