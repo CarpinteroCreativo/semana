@@ -1,5 +1,5 @@
 
-//Dias        D    L   M
+//Dias        D      L   M
 let monto1 = 545 + 1788 + 0;
 
 //Dias       M   J   V
