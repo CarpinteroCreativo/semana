@@ -1,6 +1,6 @@
 
 //Dias        D    L   M
-let monto1 = 545 + 0 + 0;
+let monto1 = 545 + 1788 + 0;
 
 //Dias       M   J   V
 let monto2 = 0 + 0 + 0;
